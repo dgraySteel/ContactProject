@@ -9,9 +9,9 @@ describe('ContactListComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ 
+      declarations: [
         ContactListComponent,
-        ContactSingleComponent, 
+        ContactSingleComponent,
       ]
     })
     .compileComponents();
