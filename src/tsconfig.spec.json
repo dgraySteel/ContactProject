@@ -11,7 +11,8 @@
     ]
   },
   "files": [
-    "test.ts"
+    "test.ts",
+    "polyfill.ts"
   ],
   "include": [
     "**/*.spec.ts",
